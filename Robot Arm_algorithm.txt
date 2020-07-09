@@ -1,0 +1,5 @@
+The mean idea to desin system with 2 free dom of angle by using 2 servo motor and input way.
+
+1st we start we intalazing servo motor and buadrate for the serial input.
+
+2nd angle should be write by user to change the postion of angle.
